@@ -30,8 +30,7 @@ It receives pre-approved domain block requests (e.g., from ServiceNow) and perfo
 ├── .gitignore
 └── README.md
 
-# ----------------------------------------------------------------------------
----
+
 
 ## 🚀 Quick Start
 
